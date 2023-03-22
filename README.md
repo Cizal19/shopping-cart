@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 A shopping cart app, built using React.js and integrated with state management library Redux.
 
+## Demo
+Here is a working live demo : https://loquacious-youtiao-e80185.netlify.app/
 
 ## Site
 

@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+# Shopping Cart
+
+A shopping cart app, built using React.js and integrated with state management library Redux.
+
+
+## Site
+
+- The shopping cart shows your added items and their price.
+- The quantity of the items can be increased or decreased, the total amount is calculated accordingly.
+- The cart can be cleared using a single button, which prompts a modal for confirmation.
+
 ## Available Scripts
 
 In the project directory, you can run:
